@@ -1,10 +1,9 @@
- package main
+package main
 
 import "fmt"
 
-
 func add(a int,b int ) int{
-  return a +b
+     return a +b
 }
 
 func f(mensaje string, count int ){
